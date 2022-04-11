@@ -1,0 +1,90 @@
+
+body {
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: #58faf4;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+
+.quem-somos {
+    background-color: #8181f7;
+    color: white;
+}
+
+.margin {
+    
+    padding-bottom: 50px;
+
+    padding-top: 10px;
+    
+}
+
+.parceiros{
+    background-color: #58faf4;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
+
+.icon{
+    display: inline-block;
+    font-size: 30px;
+    animation: float 2s ease-in infinite;
+    margin-left: -1%
+    
+}
+.ri-instagram-line icon {
+    animation-delay: 1s;
+}
+
+.ri-facebook-circle-line {
+    animation-delay: 3s;
+}
+
+.ri-whatapp-line {
+    animation-delay: 4s;
+}
+
+@keyframes float  {
+    0%{
+        transform: translateY(0);
+    }
+    50%{
+        transform: translateY(-15px);
+    }
+    100%{
+        transform: translateY(0);
+    }
+}
+
+
+
+.rosa {
+    animation-delay: 1s;
+    
+}
+
+.branco{
+    animation-delay: 2s;
+   
+}
+
+.verdeescuro{ animation-delay: 1s;
+   
+}
+
+
+.laranja{ animation-delay: 2s;
+ 
+}
+
+
+.azulbb { animation-delay: 1s;
+   
+  
+}
